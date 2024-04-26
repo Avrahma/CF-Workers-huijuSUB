@@ -9,10 +9,7 @@ let FileName = '时光太浅1994';
 let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
-let MainData = `
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjFkN2Q3Ni1jOTNhLTRhMTEtOGI4MC0zZWNkMWZkYmFhMzk=@geisha.coffeehouse.wiki:40061#%E3%80%90%E7%BB%AD%E8%B4%B9%E8%B4%AD%E4%B9%B0QQ%3A921003995%E3%80%91
-https://sub.xf.free.hr/auto
-https://hy2sub.pages.dev
+let MainData = `ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjFkN2Q3Ni1jOTNhLTRhMTEtOGI4MC0zZWNkMWZkYmFhMzk=@geisha.coffeehouse.wiki:40061#%E3%80%90%E7%BB%AD%E8%B4%B9%E8%B4%AD%E4%B9%B0QQ%3A921003995%E3%80%91
 `
 
 //请将机场订阅链接填入上方
