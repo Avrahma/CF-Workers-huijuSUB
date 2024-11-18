@@ -7,7 +7,6 @@ let ChatID =''; //可以为空，或者@userinfobot中获取，/start
 let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息，0 为不推送订阅转换后端的访问信息与异常访问
 let FileName = '时光太浅1994';
 let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
-let EndPS = '【1】';//节点名备注内容
 
 //节点链接 + 订阅链接
 let MainData = `
@@ -21,6 +20,7 @@ let urls = [];// https://subs.zeabur.app/clash , https://neko-warp.nloli.xyz/nek
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/Avrahma/edgetunnel/main/Clash/config/clash"; //订阅配置文件
+let EndPS = '【1】';//节点名备注内容
 
 export default {
 	async fetch (request,env) {
