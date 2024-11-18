@@ -20,7 +20,6 @@ let urls = [];// https://subs.zeabur.app/clash , https://neko-warp.nloli.xyz/nek
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/Avrahma/edgetunnel/main/Clash/config/clash"; //订阅配置文件
-let EndPS = '【1】';//节点名备注内容
 
 export default {
 	async fetch (request,env) {
