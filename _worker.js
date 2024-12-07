@@ -17,7 +17,7 @@ https://sub.xf.free.hr/auto
 `
 
 let urls = [];
-let subconverter = "https://fs.v2rayse.com/share"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
+let subconverter = "fs.v2rayse.com/share"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/Avrahma/edgetunnel/main/Clash/config/clash"; //订阅配置文件
 let subProtocol = 'https';
 
