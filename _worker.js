@@ -8,7 +8,7 @@ let TG = 0; //小白勿动， 开发者专用，1 为推送所有的访问信息
 let FileName = '时光太浅1994';
 let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 let total = 无限流量;//TB
-let timestamp = ;//2099-12-31
+//let timestamp = ;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
